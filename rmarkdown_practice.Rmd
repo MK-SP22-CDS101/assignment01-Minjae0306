@@ -24,6 +24,9 @@ output:
     dev: svg
 urlcolor: blue
 ---
+```{r}
+x<-5
+```
 
 <!-- Write your Markdown below this line -->
 
